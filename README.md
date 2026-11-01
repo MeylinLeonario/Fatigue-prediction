@@ -3,6 +3,7 @@
 El análisis principal ahora es **estadístico longitudinal**, centrado en asociaciones ajustadas, tamaños de efecto e intervalos de confianza.
 
 - **Empezar aquí:** [fatigue_analysis_longitudinal_v3.ipynb](fatigue_analysis_longitudinal_v3.ipynb).
+- Resultados reales y límites: [longitudinal_validation.md](longitudinal_validation.md).
 - Predicción exploratoria y optimización OOF: [fatigue_analysis_clean_v2.ipynb](fatigue_analysis_clean_v2.ipynb).
 - Reproducción de los resultados predictivos previos: [real_m03_validation.md](real_m03_validation.md).
 
